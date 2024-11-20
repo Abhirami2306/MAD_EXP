@@ -48,7 +48,7 @@ Implementation Considerations Technical Setup To implement TTS and STT in the ap
 
 Installation Clone this repository:
 
-bash Copy code git clone (https://github.com/ArunaSekar1/Aruna_221501011_MAD) Navigate to the project directory:
+bash Copy code git clone (https://github.com/Abhirami2306/MAD_EXP/tree/main) Navigate to the project directory:
 
 bash Copy code cd mobile-app-experiments-lab Install dependencies:
 
